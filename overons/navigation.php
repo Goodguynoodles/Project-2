@@ -7,10 +7,10 @@
                   <a class="nav-link" href="../opleiding.php">Opleiding</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active" id="active" href="#">over ons</a>
+                  <a class="nav-link" href="../inschrijven.php">Inschrijven</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="../inschrijven.php">Inschrijven</a>
+                  <a class="nav-link active" id="active" href="../overons.php">Game</a>
                 </li>
               </ul>
             </div>
