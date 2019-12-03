@@ -1,0 +1,18 @@
+.header{
+    background-color: rgb(8, 120, 232); 
+    color: white;
+    text-align: center;
+    
+}
+.footer{
+    background-color: rgb(166, 172, 175);
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin: 0px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.box{
+    padding: 23px;
+}
