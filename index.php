@@ -17,7 +17,18 @@
       <?php
       include ("./home/header.php");
       include ("./home/navigation.php");
-      include ("./home/content.php");
+      if(isset($_GET["content1"])){
+        include ("./" . $_GET["content1"] . ".php");
+      }
+      if(isset($_GET["content2"])){
+        include ("./" . $_GET["content2"] . ".php");
+      }
+      if(isset($_GET["content3"])){
+        include ("./" . $_GET["content3"] . ".php");
+      }
+      if(isset($_GET["content4"])){
+        include ("./" . $_GET["content4"] . ".php");
+      }
       include ("./home/footer.php");
     ?>
   </main>

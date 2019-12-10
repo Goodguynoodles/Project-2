@@ -1,11 +1,11 @@
 .header{
-    background-color: rgb(8, 120, 232); 
+    background-color: rgb(35, 43, 51); 
     color: white;
     text-align: center;
     
 }
 .footer{
-    background-color: rgb(166, 172, 175);
+    background-color: rgb(50, 60, 65);
     color: white;
     text-align: center;
     padding: 50px;
@@ -21,7 +21,7 @@
 }
 .background
 {
-    background-image: url("../img/bg-clouds.jpg");
+    background-image: linear-gradient(to bottom right, rgb(88, 11, 230) , blue 20%,rgb(22, 181, 221)60%);
     background-size: cover;
     background-repeat: no-repeat;      
 }
@@ -29,10 +29,6 @@
 {
     min-width: 500px;
     min-height: 345px;
-}
-
-.background2{
-    background-color: rgb(228, 220, 220);
 }
 .jumbotron{
     background-color: rgb(0, 0, 0);
@@ -44,4 +40,42 @@
 }
 #font{
     font-family: 'Montserrat', sans-serif;
+}
+.gamebox{
+    min-height: 900px;
+    min-width: 1400px;
+    background-color: rgb(170, 170, 172);
+    border: 5px solid black;
+    margin-left: 70px;
+}
+.title{
+    background-color: rgb(8, 120, 232);
+    border-radius: 10px ;
+    color: white;
+    margin-bottom: 30px;    
+}
+.nav-tabs{
+   background: rgb(230, 228, 228);;
+}
+.nospace{
+    margin-bottom: 0px;
+}
+.img2{
+    margin-bottom: 25px;
+}
+.noborder{
+    border-radius: 0px;
+}
+.nopadding{
+    padding: 0px;
+    padding-bottom: 50px;
+}
+.space{
+    margin-top: 27px;
+}
+.bot{
+    margin-top: 500px;
+}
+.top{
+    margin-bottom: 100px;
 }
