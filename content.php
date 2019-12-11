@@ -60,8 +60,10 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-12 color" id="font"><h1>hier zijn wat andere opleidingen</h1></div>
+        
         <div class="card-deck-wrapper cardspace">
-            <div class="card-deck" id="font">
+           
+            <div class="card-deck" id="font" style="width: 100rem;"> <div class="col-2"></div>
                 <a href="https://www.mboutrecht.nl/opleidingen/ict-en-mediabeheer/" class="card">
                     <img class="card-img-top" src="./img/Ict-en-mediabeheer-3.jpg   " alt="Card image cap">
                     <div class="card-block">
@@ -78,7 +80,6 @@
                         <h4 class="card-title">Management assistant</h4>
                         <p class="card-text">Spreekt het beroep van secretaresse jou wel aan, maar wil je net iets meer?
                             Dan is de opleiding Management assistant bij MBO Utrecht vast iets voor jou!</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                     </div>
                 </a>
                 <a class="card" href="https://www.mboutrecht.nl/opleidingen/muzikant-pop-rock/">
@@ -89,7 +90,6 @@
                             mee verdienen? Leef je voor het spelen in een band en zou je graag als professional op het
                             podium willen staan? Als je talent hebt en bereid bent heel hard te werken, dan vind jij
                             vast je plek op de Herman Brood Academie.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                     </div>
                 </a>
             </div>
