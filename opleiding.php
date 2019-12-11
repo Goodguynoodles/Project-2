@@ -5,22 +5,25 @@
     </div>
     <div class="col-2"></div>
     <div class="col-2"></div>
-    <div class="col-4 img"><img src="../img/piloot.jpg" width="600px" class="img2"></div>
-    <div class="col-4 jumbotron nospace noborder" id="font">
+    <div class="col-4"><img src="../img/test.jpg" width="610px" class="img2"></div>
+    <div class="col-4 jumbotron nospace noborder divborder2" id="font">
         <h3>Wat houd de opleiding in</h3>
         <a>in deze opleiding ga je leren hoe je een straaljager piloot word in de lucht macht.</a><br>
         <a>Je hoofdtaak is natuurlijk vliegen, maar je voert ook in teamverband veel grondtaken uit binnen je
-        squadron. Verder deel je je ervaringen met andere vliegers.</a><br> Na afloop van elke vlucht kijk je of er
+            squadron. Verder deel je je ervaringen met andere vliegers.</a><br> Na afloop van elke vlucht kijk je of er
         verbeterpunten zijn en bespreek je die. Het doel van je vluchten is afhankelijk van de machine waarmee je
         vliegt. Als Apache-vlieger bied je gevechtsondersteuning vanuit de lucht, de grondtroepen rekenen op je. Als
         Cougar, NH-90 of Chinook-vlieger ben je verantwoordelijk voor het transport van materieel en mensen. Je lading
         is divers en je werkterrein de wereld. Als F-16-vlieger verdedig je het Nederlandse luchtruim en dat van onze
+        NAVO-bondgenoten. Daarnaast ondersteun je de grondtroepen.
+        Op welk type je ook vliegt, het is altijd belangrijk dat je je kennis op peil houdt door veel te oefenen en te
+        studeren op nieuwe technieken en apparatuur.
     </div>
     <div class="col-2"></div>
     <div class="col-2"></div>
-    <div class="col-8 jumbotron noborder nopadding" id="font"><a>NAVO-bondgenoten. Daarnaast ondersteun je de grondtroepen.
-            Op welk type je ook vliegt, het is altijd belangrijk dat je je kennis op peil houdt door veel te oefenen en te
-            studeren op nieuwe technieken en apparatuur. Een andere belangrijke taak is hulpverlening: je vliegt gewonden
+    <div class="col-8 jumbotron noborder nopadding divborder1" id="font"><a>
+             Een andere belangrijke taak is hulpverlening: je vliegt
+            gewonden
             met een helikopter naar een hospitaal of helpt bij het bestrijden van een brand.</a></div>
     <div class="col-2"></div>
     <div class="col-2"></div>

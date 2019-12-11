@@ -1,81 +1,138 @@
-.header{
-    background-color: rgb(35, 43, 51); 
+.header {
+    background-color: rgb(35, 43, 51);
     color: white;
     text-align: center;
-    
+
 }
-.footer{
+
+.footer {
     background-color: rgb(50, 60, 65);
     color: white;
     text-align: center;
     padding: 50px;
     margin: 0px;
-    border-top-right-radius: 15px;
-    border-top-left-radius: 15px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
 }
-.box{
+
+.box {
     padding: 23px;
 }
-.spaceing{
+
+.spaceing {
     margin-top: 50px;
 }
-.background
-{
-    background-image: linear-gradient(to bottom right, rgb(88, 11, 230) , blue 20%,rgb(22, 181, 221)60%);
-    background-size: cover;
-    background-repeat: no-repeat;      
+
+.background {
+    background-image: linear-gradient(to bottom right, rgb(221, 219, 226) 80%, rgb(115, 117, 122) 20%, rgb(105, 107, 107)60%);
+    background-repeat: no-repeat;
 }
-.box2
-{
+
+.box2 {
     min-width: 500px;
     min-height: 345px;
 }
-.jumbotron{
-    background-color: rgb(0, 0, 0);
-    color: white;
+
+.jumbotron {
+
     border-radius: 10px;
 }
-.img{
+
+.img {
     border-radius: 10px;
 }
-#font{
+
+.img2 {
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-bottom-right-radius: 0px;
+}
+
+#font {
     font-family: 'Montserrat', sans-serif;
+    color: black;
 }
-.gamebox{
+
+.gamebox {
     min-height: 900px;
     min-width: 1400px;
     background-color: rgb(170, 170, 172);
     border: 5px solid black;
     margin-left: 70px;
 }
-.title{
+
+.title {
     background-color: rgb(8, 120, 232);
-    border-radius: 10px ;
+    border-radius: 10px;
     color: white;
-    margin-bottom: 30px;    
+    margin-bottom: 30px;
+    text-align: center;
 }
-.nav-tabs{
-   background: rgb(230, 228, 228);;
+
+.nav-tabs {
+    background: rgb(230, 228, 228);
+    ;
 }
-.nospace{
+
+.nospace {
     margin-bottom: 0px;
+    padding-bottom: 0px;
 }
-.img2{
-    margin-bottom: 25px;
-}
-.noborder{
+
+.noborder {
     border-radius: 0px;
 }
-.nopadding{
+
+.nopadding {
     padding: 0px;
     padding-bottom: 50px;
 }
-.space{
+
+.space {
     margin-top: 27px;
 }
-.bot{
-    margin-top: 500px;
+
+.bot {
+    margin-top: 550px;
 }
-.top{
+
+.top {
     margin-bottom: 100px;
+}
+
+th {
+    padding-left: 10px;
+    border: black solid 2px;
+}
+
+td {
+    border: black solid 2px;
+}
+
+.divborder1 {
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.divborder2 {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.card-title{
+    color: black;
+}
+.card-text{
+    color: black;
+}
+.color{
+    background-color: rgb(233, 236, 239);
+    padding: 25px;
+    padding-top: 30px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+.cardspace{
+    margin-bottom: 50px;
 }
