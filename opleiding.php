@@ -5,8 +5,8 @@
     </div>
     <div class="col-2"></div>
     <div class="col-2"></div>
-    <div class="col-4"><img src="../img/test.jpg" width="610px" class="img2"></div>
-    <div class="col-4 jumbotron nospace noborder divborder2" id="font">
+    <div class="col-4"><img src="../img/test.jpg" width="610px" height="550px" class="img"></div>
+    <div class="col-4 jumbotron nospace noborder divborder1" id="font">
         <h3>Wat houd de opleiding in</h3>
         <a>in deze opleiding ga je leren hoe je een straaljager piloot word in de lucht macht.</a><br>
         <a>Je hoofdtaak is natuurlijk vliegen, maar je voert ook in teamverband veel grondtaken uit binnen je
@@ -17,14 +17,13 @@
         is divers en je werkterrein de wereld. Als F-16-vlieger verdedig je het Nederlandse luchtruim en dat van onze
         NAVO-bondgenoten. Daarnaast ondersteun je de grondtroepen.
         Op welk type je ook vliegt, het is altijd belangrijk dat je je kennis op peil houdt door veel te oefenen en te
-        studeren op nieuwe technieken en apparatuur.
+        studeren op nieuwe technieken en apparatuur. Een andere belangrijke taak is hulpverlening: je vliegt
+            gewonden
+            met een helikopter naar een hospitaal of helpt bij het bestrijden van een brand.
     </div>
     <div class="col-2"></div>
     <div class="col-2"></div>
-    <div class="col-8 jumbotron noborder nopadding divborder1" id="font"><a>
-             Een andere belangrijke taak is hulpverlening: je vliegt
-            gewonden
-            met een helikopter naar een hospitaal of helpt bij het bestrijden van een brand.</a></div>
+    <div class="col-8 noborder nopadding divborder1" id="font"></div>
     <div class="col-2"></div>
     <div class="col-2"></div>
     <div class="col-4 jumbotron" id="font">
@@ -41,7 +40,7 @@
             van Geen Bezwaar (VGB) te kunnen afgeven.</li>
         <li>Je bent bereid om uitgezonden te worden en de daarvoor benodigde vaccinaties te accepteren.</li>
     </div>
-    <div class="col-2"><img src="../img/1476069.jpg" width="290px" class="img"></div>
+    <div class="col-2"><img src="../img/1476069.jpg" width="290px" height="505px" class="img"></div>
     <div class="col-2 jumbotron" id="font">
         <h3>hoe lang duurt de opleiding</h3>
         <a>de opleiding duur 4 jaar</a>

@@ -59,11 +59,11 @@
 </div>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-12 color" id="font"><h1>hier zijn wat andere opleidingen</h1></div>
+        <div class="col-1"></div>
+        <div class="col-10 color" id="font"><h1>hier zijn wat andere opleidingen</h1></div>
         
         <div class="card-deck-wrapper cardspace">
-           
-            <div class="card-deck" id="font" style="width: 100rem;"> <div class="col-2"></div>
+             <div class="card-deck" id="font" style="width: 100rem;"> <div class="col-2"></div>
                 <a href="https://www.mboutrecht.nl/opleidingen/ict-en-mediabeheer/" class="card">
                     <img class="card-img-top" src="./img/Ict-en-mediabeheer-3.jpg   " alt="Card image cap">
                     <div class="card-block">

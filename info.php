@@ -35,11 +35,7 @@
             }
             ?>
             <form action="./index.php?content5=delete" method="post">
-            <?php
-            while ($row = $result->fetch_assoc()) 
-            $row["ID"]. '= name="id"'
-            ?>
-            <button type="submit" class="btn btn-info btn-block btn-lg mb-2 space">verstuur</button>
+            
             </form>
             </div>
         </table>
