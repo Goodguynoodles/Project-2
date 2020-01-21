@@ -35,35 +35,25 @@
 
 <div class="container">
     <div class="row jumbotron spaceing" id="font">
-        <div class="col-6">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-            Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec
-            quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede
-            justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis
-            vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum
-            semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend
-            ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus
-            varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper
-            ultricies nisi. Nam eget dui.</div>
-        <div class="col-6"><img src="../img/straaljager.jpg" width="500px"></div>
+        <div class="col-6">Welkom op deze webpagina de webpagina is volledig bedoeld voor het inlichten en het schrijven voor jou opleiding, luchtmacht. luchtmacht past volledig bij jou als je natuurlijk een passie hebt met vliegtuigen en of straaljagers. Maar ook als je daar geen passie mee hebt kan de opleiding luchtmacht wel wat voor jou zijn. Hou je van het leger of Nederland is dit ook de beste opleiding om succes te vinden binnen de Nederlandse legermacht.
+            Wat kan je dan precies verwachten bij de opleiding luchtmacht? alle aspecten van de luchtmacht worden zowel behandeld zodat jij de ruimte krijgt om te kiezen welke kant je verder op wil. Hierbij kan je denken aan de vakken radartechnieken, software technologie in de luchtmacht, de basis van het besturen van een straaljager maar ook een stukje fysieke training want we vinden het natuurlijk belangrijk dat iedereen in de luchtmacht zowel de kantoorfuncties als de opererende sector fit is, maar we komen we later nog op terug. Dus als een van deze vakken jou heel erg aanspreekt is er natuurlijk ook de beste plek.</div>
         <div class="col-6"><img src="../img/thumps up.jpg" width="500px"></div>
-        <div class="col-6">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-            Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec
-            quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede
-            justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis
-            vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum
-            semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend
-            ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus
-            varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper
-            ultricies nisi. Nam eget dui.</div>
+        <div class="col-6"><img src="../img/straaljager.jpg" width="500px"></div>
+        <div class="col-6">met deze opleiding heb je dus ook een breed vlak waarop je kan doorleren zo kan je naar het HBO voor verdere opleiding in de vakken …. En kan je jezelf dus nog meer door ontwikkelen binnen het leger. Ook valt er dan altijd nog door te leren in de andere takken van het leger zoals in de landmacht of in de marine.
+            het fysieke gedeelte, het gedeelte waar jullie natuurlijk allemaal op zitten te wachten. Op de opleiding luchtmacht hechten we hier veel waarde aan omdat je bij de luchtmacht een stuk representatieve functie hebt. Wat houd dit in? Dat je de juiste fysieke uitstraling nodig hebt om zo het plaatje zo wel professioneel als ethiek hoog te houden. Hier zul je dan ook streng op beoordeeld worden. We hebben een speciale fysieke afdeling die ten alle tijden open is voor gebruik. Tijdens de lessen krijg je dan ook les van een DRILL instructeur uit het leger.</div>
     </div>
+</div>
 </div>
 <div class="container-fluid">
     <div class="row">
         <div class="col-1"></div>
-        <div class="col-10 color" id="font"><h1>hier zijn wat andere opleidingen</h1></div>
-        
+        <div class="col-10 color" id="font">
+            <h1>hier zijn wat andere opleidingen</h1>
+        </div>
+
         <div class="card-deck-wrapper cardspace">
-             <div class="card-deck" id="font" style="width: 100rem;"> <div class="col-2"></div>
+            <div class="card-deck" id="font" style="width: 100rem;">
+                <div class="col-2"></div>
                 <a href="https://www.mboutrecht.nl/opleidingen/ict-en-mediabeheer/" class="card">
                     <img class="card-img-top" src="./img/Ict-en-mediabeheer-3.jpg   " alt="Card image cap">
                     <div class="card-block">

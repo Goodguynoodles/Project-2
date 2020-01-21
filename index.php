@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <!doctype html>
 <html lang="en">
 
@@ -19,18 +23,8 @@
       <?php
       include("./home/header.php");
       include("./home/navigation.php");
-      if (isset($_GET["content1"])) {
-        include("./" . $_GET["content1"] . ".php");
-      } elseif (isset($_GET["content2"])) {
-        include("./" . $_GET["content2"] . ".php");
-      } elseif (isset($_GET["content3"])) {
-        include("./" . $_GET["content3"] . ".php");
-      } elseif (isset($_GET["content4"])) {
-        include("./" . $_GET["content4"] . ".php");
-      } elseif (isset($_GET["content5"])) {
-        include("./" . $_GET["content5"] . ".php");
-      } elseif (isset($_GET["content6"])) {
-        include("./" . $_GET["content6"] . ".php");
+      if (isset($_GET["content"])) {
+        include("./" . $_GET["content"] . ".php");
       } else {
         include("./content.php");
       }

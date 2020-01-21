@@ -35,7 +35,7 @@ $query = "INSERT INTO `applicatie` (
 mysqli_query($conn, $query);
 
 //header("Location: ./index.php?dick=oke");
-header("Refresh: 3; ./index.php?content3=inschrijven")
+header("Refresh: 3; ./index.php?content=inschrijven")
 ?>
 
 <h3 class="box">bedankt kut</h3>

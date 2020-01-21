@@ -31,7 +31,13 @@
                         . "<td>" . $row["E-mail"] . "</td>"
                         . "<td>" . $row["opleiding"] . "</td>"
                         . "<td>" . $row["tel"] . "</td>"
-                        . "<td>" . $row["burgerserversnummer"] . "</td></tr>";
+                        . "<td>" . $row["burgerserversnummer"] . "</td>"
+                        . "<td class='margin box'><a href='./index.php?content=delete&id=" . $row["ID"]  . "'>
+              <img src='./img/icons/b_drop.png' alt='x'>
+              </a> </td>"
+              . "<td class='margin box'><a href='./index.php?content=update2&id=" . $row["ID"]  . "'>
+              <img src='./img/icons/b_edit.png' alt='pencil'>
+              </a> </td></tr>";
             }
             ?>
             <form action="./index.php?content5=delete" method="post">

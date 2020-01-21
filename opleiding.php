@@ -44,6 +44,7 @@
     <div class="col-2 jumbotron" id="font">
         <h3>hoe lang duurt de opleiding</h3>
         <a>de opleiding duur 4 jaar</a>
+        <a type="button" href="index.php?content2=inschrijven">Meld je nu hier aan</a> 
     </div>
     <div class="col-2"></div>
     <div class="col-6"></div>

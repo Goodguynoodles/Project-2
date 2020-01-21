@@ -1,19 +1,16 @@
 <?php
-$dbserver = "localhost";
-$dbname = "inschrijven";
-$dbusername = "root";
-$dbpassword = "";
+$id = $_GET["id"];
+include("./connectdb.php");
+$sql = "SELECT * FROM applicatie WHERE `id` = $id";
+$result = mysqli_query($conn, $sql);
+$record = mysqli_fetch_assoc($result);
+$up = "DELETE FROM `applicatie` WHERE `applicatie`.`ID` = '$id'";
 
-$conn = mysqli_connect($dbserver, $dbusername, $dbpassword, $dbname);
+// echo $up;exit();
+mysqli_query($conn, $up);
 
-$ID = $_POST["id"];
+header("Location: ./index.php?content=info");
 
-$query = "DELETE FROM `applicatie` WHERE `applicatie`.`ID` = '$ID'";
-
-mysqli_query($conn, $query);
-
-//header("Location: ./index.php?dick=oke");
-header("Refresh: 3; ./index.php?content5=info")
 ?>
 
-<h3 class="box">bedankt kut</h3>
+<input type="hidden" name="id" value="<?php echo $id; ?>">
